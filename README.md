@@ -24,28 +24,28 @@ Below are 7 key visualizations generated using our Citibike trip data. These vis
 
 1. August Peak Hours
 
-![August Peak Hours]()
+![August Peak Hours](https://github.com/jmalauss/bikesharing/blob/main/August%20Peak%20Hours.png)
 
 2. Trips by Weekday
 
-![Trips by Weekday]()
+![Trips by Weekday](https://github.com/jmalauss/bikesharing/blob/main/Trips%20By%20Weekday.png)
 
 3. Checkout Times by Gender
 
-![Checkout Times by Gender]()
+![Checkout Times by Gender](https://github.com/jmalauss/bikesharing/blob/main/Gender%20Breakdown.png)
 
 4. User Trips by Gender by Weekday
 
-![Trips by Gender by Weekday]()
+![Trips by Gender by Weekday](https://github.com/jmalauss/bikesharing/blob/main/Gender%20Breakdown.png)
 
 5. Starting Locations by Customer Type
 
-![Starting Locations]()
+![Starting Locations](https://github.com/jmalauss/bikesharing/blob/main/Starting%20Locations.png)
 
 6. Checkout Times
 
-![Checkout Times]()
+![Checkout Times](https://github.com/jmalauss/bikesharing/blob/main/Checkout%20Times.png)
 
 7. Customer Types
 
-![Customer Types]()
+![Customer Types](https://github.com/jmalauss/bikesharing/blob/main/Customer%20Types.png)
