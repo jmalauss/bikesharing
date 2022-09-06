@@ -64,3 +64,9 @@ From this line chart, we can tell that most rides last about 5 minutes. This ind
 ![Customer Types](https://github.com/jmalauss/bikesharing/blob/main/Customer%20Types.png)
 
 This last pie chart is a simple demonstration of the amount of Customers and Subscribers to Total Users. We can use this information to understand where to best implement user-facing promotional events, and how much each user type is responsible for our total revenue.
+
+## Summary
+
+The results indicate a few different relationships within our Citibike utilization. For starters, we can understand that there is an apparent relationship between rush hour and Citibike usage. Given the tendency for users to take shorter rides, and the proportion of Subscribers to Customers, we can assume that most of our customers are using the bike for a commute during the week. 
+
+Some additional analyses we can perform to better understand our data would be to create a map that shows where our most frequent users start and finish their journey. Additionally, we can add a layer to that map showing local businesses and places of work to see if there are any businesses where bike users start or finish their trip often. Partnerships with these businesses could benefit Citibike when it comes to advertising, discounts/specials and visibility. 
