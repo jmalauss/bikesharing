@@ -51,12 +51,16 @@ User Trips by Gender by Weekday shows the audience which users (customer or subs
 
 ![Starting Locations](https://github.com/jmalauss/bikesharing/blob/main/Starting%20Locations.png)
 
-
+On the map above we can see where users start their journey. There is not much of a difference between Customers and Subscribers when it comes to their starting location, but the map allows us to understand where all users are starting their journey, and may help us understand areas in which we can advertise to gain new Customers, and turn Customers into Subscribers.
 
 6. Checkout Times
 
 ![Checkout Times](https://github.com/jmalauss/bikesharing/blob/main/Checkout%20Times.png)
 
+From this line chart, we can tell that most rides last about 5 minutes. This indicates that Citibike users may prefer Citibike for shorter distances, and would prefer not to be on the bike for that long.
+
 7. Customer Types
 
 ![Customer Types](https://github.com/jmalauss/bikesharing/blob/main/Customer%20Types.png)
+
+This last pie chart is a simple demonstration of the amount of Customers and Subscribers to Total Users. We can use this information to understand where to best implement user-facing promotional events, and how much each user type is responsible for our total revenue.
