@@ -1,6 +1,6 @@
 # bikesharing
 
-[Tableau Public Link - Citibike Analysis](https://public.tableau.com/views/Module_14Challenge_16623219874910/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link - Citibike Analysis Dashboard](https://public.tableau.com/views/Module_14Challenge_16623219874910/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Purpose
 
@@ -12,5 +12,5 @@ more specifically:
 
 ## Results
 
-Below are 7 key visualizations generated using our Citibike trip data. These visuals are aimed at addressing the relationships mentioned above.
-
+Below are 7 key visualizations generated using our Citibike trip data. These visuals are aimed at addressing the relationships mentioned above:
+1. Trips by Weekday - This heatmap displays a darker red color in areas where there are more rides
