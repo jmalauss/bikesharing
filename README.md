@@ -19,4 +19,33 @@ Below are 7 key visualizations generated using our Citibike trip data. These vis
 4. User Trips by Gender by Weekday
 5. Starting Locations by Customer Type
 6. Checkout Times
-7. 
+7. Customer Types
+
+
+1. August Peak Hours
+
+![August Peak Hours]()
+
+2. Trips by Weekday
+
+![Trips by Weekday]()
+
+3. Checkout Times by Gender
+
+![Checkout Times by Gender]()
+
+4. User Trips by Gender by Weekday
+
+![Trips by Gender by Weekday]()
+
+5. Starting Locations by Customer Type
+
+![Starting Locations]()
+
+6. Checkout Times
+
+![Checkout Times]()
+
+7. Customer Types
+
+![Customer Types]()
